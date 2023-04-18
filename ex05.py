@@ -4,7 +4,7 @@
 
 # data: 17/04/2023
 
-# Escreva um programa que verifica se um número é múltiplo
+# 5. Escreva um programa que verifica se um número é múltiplo
 # de 3 ou de 5 ou de ambos e imprime a mensagem correspondente.
 
 numero = int(input("Digite um número: "))

@@ -4,7 +4,7 @@
 
 # data: 17/04/2023
 
-# Escreva um programa que verifica se um número é par ou ímpar 
+# 2. Escreva um programa que verifica se um número é par ou ímpar 
 # e imprime a mensagem correspondente.
 
 numero = int(input("Digite um número: "))
